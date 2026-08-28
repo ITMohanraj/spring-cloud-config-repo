@@ -1,0 +1,10 @@
+employee:
+  message: Employee Service running
+  max-records: 100
+  department: IT
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,refresh
