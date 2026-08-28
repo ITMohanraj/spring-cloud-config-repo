@@ -5,5 +5,5 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/necdb
     username: root
-    password: YOUR_PASSWORD
+    password: Mohan@2004
 
